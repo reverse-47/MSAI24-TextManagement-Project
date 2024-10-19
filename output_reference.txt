@@ -1,10 +1,8 @@
-索引商家数据
+Indexing business data
 Business data indexed successfully!
-Indexing time: 5.75 seconds
+Indexing time: 46.84 seconds
 --------------------
-搜索关键字:Pizza
-城市:Nashville
-州:TN
+Searching keyword: Pizza
 Found 130 results for business name search:
 Business: Domino's Pizza, City: Nashville, State: TN
 Business: Pizza Hut, City: Nashville, State: TN
@@ -17,7 +15,7 @@ Business: Jet's Pizza, City: Nashville, State: TN
 Business: Christopher Pizza, City: Nashville, State: TN
 Business: Bellshire Pizza, City: Nashville, State: TN
 --------------------
-地理位置搜索：经纬点(36.115118, -86.766925)附近0.5km的商家
+Geospatial search: Businesses within 0.5km of (36.115118, -86.766925)
 Business: Wendy's, Distance: 0.34 km
 Business: Flowers By Design, Distance: 0.28 km
 Business: Be Dazzled Beads - Land of Odds, Distance: 0.35 km
@@ -99,47 +97,67 @@ Business: Berry Hill Nail Spa, Distance: 0.30 km
 Business: Thai Kitchen, Distance: 0.28 km
 Business: Wild Birds Unlimited, Distance: 0.00 km
 --------------------
---------------------
-索引评论数据
-batch size: 45150
-len_review_chunks 10
+Indexing review data
+batch size: 45157
+num batch 10
 Review data batch_0 indexed successfully!
-Indexing time: 138.71 seconds
+Indexing time: 774.56 seconds
 Review data batch_1 indexed successfully!
-Indexing time: 140.07 seconds
+Indexing time: 772.27 seconds
 Review data batch_2 indexed successfully!
-Indexing time: 134.74 seconds
+Indexing time: 722.94 seconds
 Review data batch_3 indexed successfully!
-Indexing time: 137.01 seconds
+Indexing time: 665.94 seconds
 Review data batch_4 indexed successfully!
-Indexing time: 139.34 seconds
+Indexing time: 739.75 seconds
 Review data batch_5 indexed successfully!
-Indexing time: 139.56 seconds
+Indexing time: 717.57 seconds
 Review data batch_6 indexed successfully!
-Indexing time: 141.64 seconds
+Indexing time: 728.35 seconds
 Review data batch_7 indexed successfully!
-Indexing time: 139.20 seconds
+Indexing time: 680.76 seconds
 Review data batch_8 indexed successfully!
-Indexing time: 140.96 seconds
+Indexing time: 647.77 seconds
 Review data batch_9 indexed successfully!
-Indexing time: 138.75 seconds
+Indexing time: 654.50 seconds
 --------------------
-搜索关键字:coffee
-城市:Nashville
-州:TN
+Searching keyword: coffee
 Found 22518 results for review search:
-Rank 1, Score: 7.797620974356447,DocID: 57455
+Rank 1, Score: 7.797919251484087,DocID: 57455
 Review: coffee coffee coffee!  I really don't do sweets for breakfast but i do like Dunkin Doughnut's coffee and you won't pay $4 for it!
 
-Rank 2, Score: 7.78709454022663,DocID: 144340
+Rank 2, Score: 7.787401133188209,DocID: 144342
 Review: Delicious coffee here. Each day there is a different fresh roasted coffee. I like iced coffee and Tin Cup has a cold brew coffee which was so yummy. This isn't a "Starbucks" with 1000 coffee choices. If you want delicious coffee, iced or hot go to Tin Cup.
 
-Rank 3, Score: 7.780092692396399,DocID: 395784
+Rank 3, Score: 7.7804048037421625,DocID: 395849
 Review: My husband and I stopped by this coffee shop before heading out of town. It was hard to find a open parking spot. We didn't have to wait long for our coffee. We loved the coffee shop vibe. They didn't have many flavor options to choose from for coffee. My coffee wasn't a very bold taste like I prefer. I only drink my coffee with cream because I love the creamy rich coffee taste. This coffee tasted a little watered down. If you want a stronger brew coffee I would recommend getting something different.
 
-Rank 4, Score: 7.774769059661966,DocID: 425649
+Rank 4, Score: 7.775067500731472,DocID: 425714
 Review: I got coffee, I don't like the taste of coffee, so yeah, it tastes like coffee... You might like it, ya know, if you like coffee.
 
-Rank 5, Score: 7.771062838623504,DocID: 93578
+Rank 5, Score: 7.77137185585481,DocID: 93578
 Review: ZolliKoffee is the coffeeshop inside Jackelope Brewing. It's tiny - just the coffee bar itself, but you can sit in the brewery with your coffee. It's not a bad place to enjoy a coffee, but I wouldn't get a coffee here unless I was at Jackelope anyway getting a beer. Because who wants to enjoy just a coffee at a brewery? And, let's be honest, who wants to park at Jackelope just for a coffee? But the coffee's not bad.
 
+--------------------
+Generating review distribution plot
+Review distribution plot saved as 'review_distribution.png'
+--------------------
+Generating user review summary
+User Review Summary for user_id: DW6dmaJHHCz2RPHh6PuMLg
+Number of reviews: 2
+Activity area (bounding box): (36.14908, 36.1503719, -86.6750872, -86.6673651)
+Top 10 most frequent words:
+  -: 3
+  could: 2
+  give: 2
+  would: 2
+  contract: 2
+  problem: 2
+  disable: 2
+  system: 2
+  someone: 2
+  sure: 2
+Three most representative sentences:
+  1. If I could give zero stars, I would - just based on the hard up-sale they did when trying to cancel.
+  2. Beware of the contract and you have to give a 30 day written notice of cancellation, which is not the problem - the problem is the account manager that asked me over and over and over about renewing the service for $10 off a month for 6 months (definitely not worth locking into another contract with these people!)
+  3. I had to stay on the line with him and repeat myself over and over and over because he could not disable the system either and had to transfer me to someone else!

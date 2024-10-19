@@ -1,3 +1,4 @@
+import os
 from yelp_index_processor import YelpIndexProcessor
 from yelp_searcher import YelpSearcher, GeoSearch
 from yelp_review_summarizer import YelpReviewSummarizer
@@ -20,6 +21,11 @@ num_batch = 10  # Required: 10% of reviews
 user_id_for_summary = "DW6dmaJHHCz2RPHh6PuMLg"
 
 if __name__ == "__main__":
+    if not os.path.exists(index_dir_business):
+        os.makedirs(index_dir_business)
+    if not os.path.exists(index_dir_review):
+        os.makedirs(index_dir_review)
+        
     # Create index
     processor_index = YelpIndexProcessor(index_dir_business, index_dir_review, path_business_subset, path_review_subset)
 
