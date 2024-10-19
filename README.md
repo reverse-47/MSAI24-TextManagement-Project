@@ -1,4 +1,4 @@
-# Yelp Dataset Analysis Project
+# MSAI24-TextManagement-Project
 
 ## Course Information
 - Course: AI6122 Text Data Management & Processing
