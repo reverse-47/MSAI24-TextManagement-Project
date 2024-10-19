@@ -1,0 +1,145 @@
+索引商家数据
+Business data indexed successfully!
+Indexing time: 5.75 seconds
+--------------------
+搜索关键字:Pizza
+城市:Nashville
+州:TN
+Found 130 results for business name search:
+Business: Domino's Pizza, City: Nashville, State: TN
+Business: Pizza Hut, City: Nashville, State: TN
+Business: Lombardi's Pizza, City: Nashville, State: TN
+Business: Jet's Pizza, City: Nashville, State: TN
+Business: Tuma Pizza, City: Nashville, State: TN
+Business: Pizza Hut, City: Nashville, State: TN
+Business: Bellshire Pizza, City: Nashville, State: TN
+Business: Jet's Pizza, City: Nashville, State: TN
+Business: Christopher Pizza, City: Nashville, State: TN
+Business: Bellshire Pizza, City: Nashville, State: TN
+--------------------
+地理位置搜索：经纬点(36.115118, -86.766925)附近0.5km的商家
+Business: Wendy's, Distance: 0.34 km
+Business: Flowers By Design, Distance: 0.28 km
+Business: Be Dazzled Beads - Land of Odds, Distance: 0.35 km
+Business: Logan's Roadhouse, Distance: 0.36 km
+Business: See Spot Eat: A Doggie Bakery, Distance: 0.04 km
+Business: Hantel Kitchens & Baths, Distance: 0.31 km
+Business: Subway, Distance: 0.32 km
+Business: Street Gypsy Salon, Distance: 0.18 km
+Business: Pizza Hut, Distance: 0.32 km
+Business: Vui's Kitchen, Distance: 0.22 km
+Business: England's Hair Design, Distance: 0.42 km
+Business: Nashville Neuromuscular Care, Distance: 0.30 km
+Business: Patrick's Bistreaux, Distance: 0.10 km
+Business: Peabody Shoe Repair, Distance: 0.29 km
+Business: Glaser Instruments, Distance: 0.38 km
+Business: Calypso Cafe, Distance: 0.45 km
+Business: The Pfunky Griddle, Distance: 0.17 km
+Business: Magnolia Home Inspections, Distance: 0.36 km
+Business: Belle Meade Exterminating, Distance: 0.47 km
+Business: Cheeseburger Charley's, Distance: 0.31 km
+Business: Spa Haus Nashville, Distance: 0.10 km
+Business: Doorstep Delivery Catering, Distance: 0.08 km
+Business: Cafe Monell's, Distance: 0.15 km
+Business: Pied Piper Creamery, Distance: 0.04 km
+Business: Smoothie King, Distance: 0.33 km
+Business: Clipper & Co Hair Salon, Distance: 0.14 km
+Business: Specchio Salon, Distance: 0.38 km
+Business: Big Machine Distillery & Tavern, Distance: 0.14 km
+Business: Sam & Zoe's, Distance: 0.27 km
+Business: Happy Japan, Distance: 0.05 km
+Business: Mofongo Cafe, Distance: 0.23 km
+Business: The Iris Motel, Distance: 0.26 km
+Business: Dahlia Body Piercing, Distance: 0.28 km
+Business: Paul C. Buff, Distance: 0.31 km
+Business: Tandem Realty, Distance: 0.32 km
+Business: Hugh-Baby’s, Distance: 0.35 km
+Business: Melissa Stephens Nail Artistry, Distance: 0.18 km
+Business: Aura Salon, Distance: 0.30 km
+Business: Shay's Studio, Distance: 0.21 km
+Business: Music City Tattoo, Distance: 0.07 km
+Business: Applebee's Grill + Bar, Distance: 0.33 km
+Business: Midtown Gallery Framers, Distance: 0.18 km
+Business: Baja Burrito, Distance: 0.30 km
+Business: Aleksey's Market, Distance: 0.28 km
+Business: Euphoria Salon Nashville, Distance: 0.34 km
+Business: Curious Heart Emporium, Distance: 0.23 km
+Business: Yanni's Grecian Garden, Distance: 0.19 km
+Business: Practical Massage Therapy, Distance: 0.48 km
+Business: All Paws Wildlife Removal, Distance: 0.32 km
+Business: Guitar Center, Distance: 0.44 km
+Business: Nashville Jam Café, Distance: 0.19 km
+Business: Wax Local, Distance: 0.24 km
+Business: The Escape Game Nashville, Distance: 0.37 km
+Business: Nashville Crystal Store, Distance: 0.11 km
+Business: Ronald P. LuBovich, DDS MSD FIDS FICOI, Distance: 0.18 km
+Business: Release Of Nashville, Distance: 0.18 km
+Business: Gordon & Co Salon, Distance: 0.20 km
+Business: Sunflower Cafe, Distance: 0.22 km
+Business: Yoga Room of Nashville, Distance: 0.16 km
+Business: Kabob Gyros, Distance: 0.32 km
+Business: Manuel Exclusive Clothier, Distance: 0.21 km
+Business: Firehouse Subs, Distance: 0.41 km
+Business: The UPS Store, Distance: 0.30 km
+Business: Vanity Salon , Distance: 0.32 km
+Business: Beaded Bungalow, Distance: 0.07 km
+Business: Dizzy's Dog Wash & Corner Store, Distance: 0.31 km
+Business: Mattress King, Distance: 0.29 km
+Business: The Yellow Porch, Distance: 0.27 km
+Business: Unlimited Security, Distance: 0.25 km
+Business: Jersey Mike's Subs, Distance: 0.29 km
+Business: Juice Bar - Berry Hill, Distance: 0.23 km
+Business: Euphoria Salon, Distance: 0.24 km
+Business: Designer Renaissance, Distance: 0.11 km
+Business: Red Rose Lash Bar, Distance: 0.30 km
+Business: Chipotle Mexican Grill, Distance: 0.42 km
+Business: Matt McGee DDS, PC, Distance: 0.17 km
+Business: Laura B Salon, Distance: 0.18 km
+Business: Berry Hill Nail Spa, Distance: 0.30 km
+Business: Thai Kitchen, Distance: 0.28 km
+Business: Wild Birds Unlimited, Distance: 0.00 km
+--------------------
+--------------------
+索引评论数据
+batch size: 45150
+len_review_chunks 10
+Review data batch_0 indexed successfully!
+Indexing time: 138.71 seconds
+Review data batch_1 indexed successfully!
+Indexing time: 140.07 seconds
+Review data batch_2 indexed successfully!
+Indexing time: 134.74 seconds
+Review data batch_3 indexed successfully!
+Indexing time: 137.01 seconds
+Review data batch_4 indexed successfully!
+Indexing time: 139.34 seconds
+Review data batch_5 indexed successfully!
+Indexing time: 139.56 seconds
+Review data batch_6 indexed successfully!
+Indexing time: 141.64 seconds
+Review data batch_7 indexed successfully!
+Indexing time: 139.20 seconds
+Review data batch_8 indexed successfully!
+Indexing time: 140.96 seconds
+Review data batch_9 indexed successfully!
+Indexing time: 138.75 seconds
+--------------------
+搜索关键字:coffee
+城市:Nashville
+州:TN
+Found 22518 results for review search:
+Rank 1, Score: 7.797620974356447,DocID: 57455
+Review: coffee coffee coffee!  I really don't do sweets for breakfast but i do like Dunkin Doughnut's coffee and you won't pay $4 for it!
+
+Rank 2, Score: 7.78709454022663,DocID: 144340
+Review: Delicious coffee here. Each day there is a different fresh roasted coffee. I like iced coffee and Tin Cup has a cold brew coffee which was so yummy. This isn't a "Starbucks" with 1000 coffee choices. If you want delicious coffee, iced or hot go to Tin Cup.
+
+Rank 3, Score: 7.780092692396399,DocID: 395784
+Review: My husband and I stopped by this coffee shop before heading out of town. It was hard to find a open parking spot. We didn't have to wait long for our coffee. We loved the coffee shop vibe. They didn't have many flavor options to choose from for coffee. My coffee wasn't a very bold taste like I prefer. I only drink my coffee with cream because I love the creamy rich coffee taste. This coffee tasted a little watered down. If you want a stronger brew coffee I would recommend getting something different.
+
+Rank 4, Score: 7.774769059661966,DocID: 425649
+Review: I got coffee, I don't like the taste of coffee, so yeah, it tastes like coffee... You might like it, ya know, if you like coffee.
+
+Rank 5, Score: 7.771062838623504,DocID: 93578
+Review: ZolliKoffee is the coffeeshop inside Jackelope Brewing. It's tiny - just the coffee bar itself, but you can sit in the brewery with your coffee. It's not a bad place to enjoy a coffee, but I wouldn't get a coffee here unless I was at Jackelope anyway getting a beer. Because who wants to enjoy just a coffee at a brewery? And, let's be honest, who wants to park at Jackelope just for a coffee? But the coffee's not bad.
+
