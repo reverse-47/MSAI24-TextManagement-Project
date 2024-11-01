@@ -1,5 +1,8 @@
 # MSAI24-TextManagement-Project
 
+## Repository
+GitHub: [https://github.com/reverse-47/MSAI24-TextManagement-Project.git](https://github.com/reverse-47/MSAI24-TextManagement-Project.git)
+
 ## Course Information
 - **Course**: AI6122 Text Data Management & Processing
 - **Assignment**: Review Data Analysis and Processing
@@ -40,14 +43,17 @@ This project involves analyzing the Yelp Open Dataset, focusing on businesses an
 
 ## Running the Analysis
 
-1. **Main Analysis**:
+1. **Detailed Data Analysis**:
+   - Open and run `dataset_analysis.ipynb` in a Jupyter Notebook environment for in-depth data exploration and visualizations.
+
+2. **Main Analysis**:
    - Execute the main script:
      ```bash
      python main.py
      ```
    - This will perform indexing, searching, and generate visualizations.
 
-2. **Detecting Comparisons in Reviews**:
+3. **Detecting Comparisons in Reviews**:
    - Execute the comparison detection script with command-line arguments:
      ```bash
      python detect_comparisons.py --review_file yelp_dataset/Nashville_review_subset.json --business_file yelp_dataset/Nashville_business_subset.json --output_file comparison_results.json
@@ -61,9 +67,6 @@ This project involves analyzing the Yelp Open Dataset, focusing on businesses an
      ```bash
      python detect_comparisons.py --review_file yelp_dataset/Nashville_review_subset.json --business_file yelp_dataset/Nashville_business_subset.json --output_file comparison_results.json
      ```
-
-3. **Detailed Data Analysis**:
-   - Open and run `dataset_analysis.ipynb` in a Jupyter Notebook environment for in-depth data exploration and visualizations.
 
 ## Project Components
 
@@ -163,18 +166,9 @@ This project involves analyzing the Yelp Open Dataset, focusing on businesses an
 - **Search Functionality**:
   - The analysis includes both text-based and geospatial searches.
 
-- **Performance Metrics**:
-  - Metrics for indexing and searching are provided in the output files.
-
 - **Error Handling**:
   - Ensure that input files are correctly formatted JSON files.
   - The script includes basic error handling, but malformed data may cause interruptions.
 
 - **Extensibility**:
   - Additional scripts and functionalities can be integrated as needed, following the project's modular structure.
-
-## Contact
-
-For any questions or issues, please refer to the assignment instructions or contact the course instructor.
-
----
