@@ -80,8 +80,14 @@ This project involves analyzing the Yelp Open Dataset, focusing on businesses an
 
 ## Results
 
+- **Detailed Analysis Results**:
+  - Available in the `dataset_analysis.ipynb` notebook.
+
 - **Indexing and Search Results**:
   - Located in `output_reference.txt`.
+
+- **Visualizations**:
+  - Including the distribution of reviews contributed by users, are generated and saved as `review_distribution.png`.
 
 - **Comparison Detection**:
   - Detected comparisons are saved in `comparison_results.json`.
@@ -108,12 +114,6 @@ This project involves analyzing the Yelp Open Dataset, focusing on businesses an
       "comparison_sentence": "Pizza Place offers better crust compared to Burger Joint."
     }
     ```
-
-- **Visualizations**:
-  - Including the distribution of reviews contributed by users, are generated and saved as image files.
-
-- **Detailed Analysis Results**:
-  - Available in the `dataset_analysis.ipynb` notebook.
 
 ## Usage Instructions for `detect_comparisons.py`
 
